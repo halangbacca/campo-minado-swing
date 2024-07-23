@@ -10,7 +10,7 @@
 
 > Jogando o campo minado.
 
-<img src="/assets/lose.png" alt="lose">
+<img src="/assets/lose.png?" alt="lose">
 
 > Jogador perdeu.
 
